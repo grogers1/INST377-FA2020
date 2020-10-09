@@ -52,10 +52,15 @@ body {
   text-transform: uppercase;
   letter-spacing: 1.2px;
   border-radius: 3px;
+  margin-right: 10px;
 }
 
 .flex-inner li {
-  width: 80px;
+  width: 95px;
+}
+
+.checkbox-list-label li {
+
 }
 
 .flex-inner {
@@ -66,4 +71,5 @@ body {
 .flex-outer {
   max-width:800px;
   padding: 0 16px;
+  margin: 0 auto;
 }
